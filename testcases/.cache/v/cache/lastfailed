@@ -1,0 +1,5 @@
+{
+  "test_igmp_snooping.py::IgmpSnooping::test_block_unknown_address": true,
+  "test_igmp_snooping.py::IgmpSnooping::test_ipHeader": true,
+  "test_igmp_snooping.py::IgmpSnooping::test_routePort": true
+}
